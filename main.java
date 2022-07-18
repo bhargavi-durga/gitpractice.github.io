@@ -8,6 +8,12 @@ Class A{
 	
 		System.out.println("result is"+(a+b));
 }
+	public void signup(String a,String b){
+	
+		System.out.println("registered successfully");
+}
+
+
 
 
 }
